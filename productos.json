@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "nombre": "Cerveza Brahma Lata (473ml)",
+        "precio": 410,
+        "categoria": "Cervezas",
+        "imagen": "cervezabrahma.png"
+    },
+    {
+        "id": 2,
+        "nombre": "Cerveza Heineken Lata (473ml)",
+        "precio": 745,
+        "categoria": "Cervezas",
+        "imagen": "cervezaheineken.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Cerveza Budweiser Lata (473ml)",
+        "precio": 674,
+        "categoria": "Cervezas",
+        "imagen": "cervezabudweiser.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Vino Tinto Trumpeter Malbec (750ml)",
+        "precio": 2330,
+        "categoria": "Vinos",
+        "imagen": "vinotrumpeter.png"
+    },
+    {
+        "id": 5,
+        "nombre": "Fernet Branca (750ml)",
+        "precio": 2700,
+        "categoria": "Fernet",
+        "imagen": "fernetbranca.png"
+    },
+    {
+        "id": 6,
+        "nombre": "Vodka Smirnoff (700ml)",
+        "precio": 1819,
+        "categoria": "Vodka",
+        "imagen": "vodkasmirnoff.png"
+    },
+    {
+        "id": 7,
+        "nombre": "Gin Bombay Sapphire London Dry (750 ml)",
+        "precio": 14025,
+        "categoria": "Gin",
+        "imagen": "ginbombay.png"
+    },
+    {
+        "id": 8,
+        "nombre": "Gin Beefeater London Dry (750 ml)",
+        "precio": 7191,
+        "categoria": "Gin",
+        "imagen": "ginbeefeater.png"
+    },
+    {
+        "id": 9,
+        "nombre": "Gin Aconcagua London Dry (750ml)",
+        "precio": 4680,
+        "categoria": "Gin",
+        "imagen": "ginaconcagua.png"
+    },
+    {
+        "id": 10,
+        "nombre": "Vodka Absolut (700ml)",
+        "precio": 6750,
+        "categoria": "Vodka",
+        "imagen": "vodkaabsolut.png"
+    },
+    {
+        "id": 11,
+        "nombre": "Vodka Skyy Raspberry (750ml)",
+        "precio": 2300,
+        "categoria": "Vodka",
+        "imagen": "vodkaskyy.png"
+    },
+    {
+        "id": 12,
+        "nombre": "Vino Tinto Angelica Zapata (750ml)",
+        "precio": 10285,
+        "categoria": "Vinos",
+        "imagen": "vinoangelicazapata.png"
+    }
+]
